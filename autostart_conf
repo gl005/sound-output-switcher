@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/local/bin/sound-output-switcher
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=sound-output-switcher
+Name=sound-output-switcher
+Comment[en_US]=sound-switcher
+Comment=sound-switcher
